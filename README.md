@@ -8,5 +8,5 @@
 <p>Find out more at <a href="https://midjourneydataset.com/"> MidjourneyDataset </a></p>
 <br><br>
 <p align="center">
-  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/ffc95030-6f23-4ec9-b33d-59ef52ae2243" width="350" title="hover text">
+  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/ffc95030-6f23-4ec9-b33d-59ef52ae2243" width="1000" title="hover text">
 </p>
