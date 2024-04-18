@@ -6,3 +6,5 @@
 <p>Our data collection, systematically organized and implemented via novel methods, sets a remarkable stage for artificial intelligence learning and experimentation. It provides a unique chance to advance your understanding and expertise in this sophisticated subject matter.</p>
 
 <p>Find out more at <a href="https://midjourneydataset.com/"> MidjourneyDataset </a></p>
+<br><br>
+![1  Overview](https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/a6da37fa-8089-4e3f-aff1-514a41b26256)
