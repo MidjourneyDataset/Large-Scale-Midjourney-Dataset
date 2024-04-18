@@ -7,4 +7,4 @@
 
 <p>Find out more at <a href="https://midjourneydataset.com/"> MidjourneyDataset </a></p>
 <br><br>
-![1  Overview](https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/a6da37fa-8089-4e3f-aff1-514a41b26256)
+
