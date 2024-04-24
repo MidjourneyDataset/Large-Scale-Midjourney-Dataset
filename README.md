@@ -9,7 +9,7 @@
   <li>Delivey through downloadable URLs or mailed hard drives</li>
 </ul>
   <br>Find out more at <a href="https://midjourneydataset.com/"> MidjourneyDataset </a>
-<br>
+<br><br>
 <h2>Delivery Methods</h2>
 <h3>Downloadable URLs</h3>
 <ul>
