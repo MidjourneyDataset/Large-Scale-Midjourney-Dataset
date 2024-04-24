@@ -27,12 +27,12 @@
 <h2>Pricing</h2>
 <h3>Unit Pricing</h3>
 <p>
-  <b>$0.003</b>/entry <br>
+  <h4><b>$0.003</b> per entry</h4><br>
   For downloadable URLs delivery method only. Cost of hard drives for physical hard drive delivery method is not included.
 </p>
 <h3>Minimum Purchase Entries</h3>
 <p>
-  <b>2,000,000</b><br>
+  <h4><b>2,000,000</b> entries</h4><br>
   One data entry includes: one prompt and its corresponding result(s)
 </p>
 <br>
