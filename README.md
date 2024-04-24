@@ -41,11 +41,7 @@
   <li>One data entry includes: one prompt and its corresponding result(s)</li>
 </ul>
 <p align="center">
-  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/72f676a4-6855-40db-a622-c8db2a16f41c" width="750" title="hover text">
+  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/330252ed-70dd-4bfe-a6fa-5036a13d5028" width="750" title="hover text">
 </p>
-![4  Entries and Pricing](https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/330252ed-70dd-4bfe-a6fa-5036a13d5028)
 <br>
-<br><br>
-<p align="center">
-  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/ffc95030-6f23-4ec9-b33d-59ef52ae2243" width="750" title="hover text">
-</p>
+
