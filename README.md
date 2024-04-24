@@ -26,15 +26,15 @@
 <br>
 <h2>Pricing</h2>
 <h3>Unit Pricing</h3>
-<p>
-  <h4><b>$0.003</b> per entry</h4>
+<ul>
+  <li><h4><b>$0.003</b> per entry</h4></li>
   <li>For downloadable URLs delivery method only. Cost of hard drives for physical hard drive delivery method is not included.</li>
-</p>
+</ul>
 <h3>Minimum Purchase Entries</h3>
-<p>
+<ul>
   <li><h4><b>2,000,000</b> entries</h4></li>
   <li>One data entry includes: one prompt and its corresponding result(s)</li>
-</p>
+</ul>
 <br>
 <p>Find out more at <a href="https://midjourneydataset.com/"> MidjourneyDataset </a></p>
 <br><br>
