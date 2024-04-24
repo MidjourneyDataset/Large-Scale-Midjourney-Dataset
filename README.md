@@ -1,15 +1,14 @@
 # Large Scale Midjourney Dataset
 <br>
+<p>Dive into our extensive dataset overflowing with tens of millions of Midjourney prompts and image datasets, all tailored towards magnifying your training and fine-tuning efforts for your image generation models.</p>
+<br>
 <ul>
   <li><b>12 million data entries</b> (adding about 2 million data entries per month)</li>
   <li>Sorted by model versions, styles, mediums, compositions and more!</li>
   <li>Flexible payment plans for one-time dataset purchase or long-term dataset provision</li>
   <li>Delivey through downloadable URLs or mailed hard drives</li>
 </ul>
-<p>Dive into our extensive dataset overflowing with tens of millions of Midjourney prompts and image datasets, all tailored towards magnifying your training and fine-tuning efforts for your image generation models.
-  <br>
   <br>Find out more at <a href="https://midjourneydataset.com/"> MidjourneyDataset </a>
-</p>
 <br>
 <h2>Delivery Methods</h2>
 <h3>Downloadable URLs</h3>
