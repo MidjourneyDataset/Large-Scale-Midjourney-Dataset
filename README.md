@@ -10,7 +10,6 @@
 </ul>
 <br>
 <h2>Delivery Methods</h2>
-<hr>
 <h3>Downloadable URLs</h3>
 <ul>
   <li>The client are to <b>create a cloud storage</b></li>
@@ -27,7 +26,6 @@
 </ul>
 <br>
 <h2>Pricing</h2>
-<hr>
 <h3>Unit Pricing</h3>
 <p>
   <b>$0.003</b>/entry
