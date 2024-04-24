@@ -30,7 +30,6 @@
   <b>$0.003</b>/entry <br>
   For downloadable URLs delivery method only. Cost of hard drives for physical hard drive delivery method is not included.
 </p>
-<br>
 <h3>Minimum Purchase Entries</h3>
 <p>
   <b>2,000,000</b><br>
