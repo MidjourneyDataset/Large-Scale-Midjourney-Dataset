@@ -4,7 +4,7 @@
 <br>
 <ul>
   <li>12 million data entries (adding about 2 million data entries per month)</li>
-  <li>Data entries sorted by model versions, styles, mediums, compositions and more!</li>
+  <li>Sorted by model versions, styles, mediums, compositions and more!</li>
   <li>Flexible payment plans for one-time dataset purchase or long-term dataset provision</li>
   <li>Delivey through downloadable URLs or mailed hard drives</li>
 </ul>
@@ -16,7 +16,6 @@
   <li>Datset will be uploaded on the client's cloud storage</li>
   <li>For larger dataset, expect long file upload time</li>
 </ul>
-<br>
 <h3>Mailed Hard Drive</h3>
 <ul>
   <li>Fast delivery time!</li>
@@ -28,13 +27,13 @@
 <h2>Pricing</h2>
 <h3>Unit Pricing</h3>
 <p>
-  <b>$0.003</b>/entry
+  <b>$0.003</b>/entry <br>
   For downloadable URLs delivery method only. Cost of hard drives for physical hard drive delivery method is not included.
 </p>
 <br>
 <h3>Minimum Purchase Entries</h3>
 <p>
-  <b>2,000,000</b>
+  <b>2,000,000</b><br>
   One data entry includes: one prompt and its corresponding result(s)
 </p>
 <br>
