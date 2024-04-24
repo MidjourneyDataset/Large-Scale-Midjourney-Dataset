@@ -6,7 +6,9 @@
   <li>Flexible payment plans for one-time dataset purchase or long-term dataset provision</li>
   <li>Delivey through downloadable URLs or mailed hard drives</li>
 </ul>
-<p>Dive into our extensive dataset overflowing with tens of millions of Midjourney prompts and image datasets, all tailored towards magnifying your training and fine-tuning efforts for your image generation models.Find out more at <a href="https://midjourneydataset.com/"> MidjourneyDataset </a></p>
+<p>Dive into our extensive dataset overflowing with tens of millions of Midjourney prompts and image datasets, all tailored towards magnifying your training and fine-tuning efforts for your image generation models.
+  <br>Find out more at <a href="https://midjourneydataset.com/"> MidjourneyDataset </a>
+</p>
 <br>
 <h2>Delivery Methods</h2>
 <h3>Downloadable URLs</h3>
