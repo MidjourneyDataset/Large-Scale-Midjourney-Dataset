@@ -26,7 +26,7 @@
 </ul>
 <br>
 <p align="center">
-  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/72f676a4-6855-40db-a622-c8db2a16f41c" width="750" title="hover text">
+  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/89de5a88-cd52-4697-aebc-00e4482389b6" width="750" title="hover text">
 </p>
 <br>
 <h2>Pricing</h2>
@@ -42,7 +42,7 @@
 </ul>
 <br>
 <p align="center">
-  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/330252ed-70dd-4bfe-a6fa-5036a13d5028" width="750" title="hover text">
+  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/b9fb220d-dd6a-46a3-bc1f-9859756fb35d" width="750" title="hover text">
 </p>
 <br>
 
