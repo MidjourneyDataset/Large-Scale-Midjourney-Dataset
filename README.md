@@ -10,7 +10,7 @@
   <li>Our data is sorted by model versions, styles, mediums, compositions and more!</li>
   <li>User can curate the dataset based on model versions, style, or specific set of keywords in the prompts!</li>
   <p align="center">
-  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/7b7da943-e59c-4768-809d-ccbb3aff419a" width="750" title="hover text">
+  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/7b7da943-e59c-4768-809d-ccbb3aff419a" width="750" title="Dataset Statistc ">
   </p>
 
 
@@ -22,7 +22,7 @@
 <br><br>
 <h2>Delivery Methods</h2>
 <p align="center">
-  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/edeb41ce-51c2-464e-94ea-157b12aab475" width="750" title="hover text">
+  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/edeb41ce-51c2-464e-94ea-157b12aab475" width="750" title="Delivery Methods">
 </p>
 
 <h3>Downloadable URLs</h3>
@@ -45,7 +45,7 @@
 <br>
 <h2>Pricing</h2>
 <p align="center">
-  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/9691f910-a2df-4dd1-9ef9-b0681cd46177" width="750" title="hover text">
+  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/9691f910-a2df-4dd1-9ef9-b0681cd46177" width="750" title="pricing information">
 </p>
 <h3>Unit Pricing</h3>
 <ul>
@@ -60,6 +60,11 @@
 <br>
 
 <br>
+<h2>Contact Us</h2>
+Add us on telegram and chat!
+<p align="left">
+  <img src="https://github.com/MidjourneyDataset/Large-Scale-Midjourney-Dataset/assets/167390558/8acc4024-d186-4737-a6af-17cf746cd70e" width="309" title="telegram_qr_code">
+</p>
 
 
 
