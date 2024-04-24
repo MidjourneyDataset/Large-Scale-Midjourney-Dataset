@@ -2,9 +2,43 @@
 <br>
 <p>Dive into our extensive dataset overflowing with tens of millions of Midjourney prompts and image datasets, all tailored towards magnifying your training and fine-tuning efforts for your image generation models.</p>
 <br>
-<p>Explore our vast resource of 12 million (and constantly increasing) Midjourney prompt+image datasets, curated with your training needs in mind. Divided by model version, style, composition, and operations, we ensure prompt delivery via easy-to-download URLs or we can physically ship hard disk drives directly to you.</p>
+<ul>
+  <li>12 million data entries (adding about 2 million data entries per month)</li>
+  <li>Data entries sorted by model versions, styles, mediums, compositions and more!</li>
+  <li>Flexible payment plans for one-time dataset purchase or long-term dataset provision</li>
+  <li>Delivey through downloadable URLs or mailed hard drives</li>
+</ul>
 <br>
-<p>Our data collection, systematically organized and implemented via novel methods, sets a remarkable stage for artificial intelligence learning and experimentation. It provides a unique chance to advance your understanding and expertise in this sophisticated subject matter.</p>
+<h2>Delivery Methods</h2>
+<hr>
+<h3>Downloadable URLs</h3>
+<ul>
+  <li>The client are to <b>create a cloud storage</b></li>
+  <li>Datset will be uploaded on the client's cloud storage</li>
+  <li>For larger dataset, expect long file upload time</li>
+</ul>
+<br>
+<h3>Mailed Hard Drive</h3>
+<ul>
+  <li>Fast delivery time!</li>
+  <li>Pre-loaded hard drives ready for shipping!</li>
+  <li>Worldwide shipping available</li>
+  <li>Hard drive cost: $20/TB (6TB =~ 1 million imagine entries)</li>
+</ul>
+<br>
+<h2>Pricing</h2>
+<hr>
+<h3>Unit Pricing</h3>
+<p>
+  <b>$0.003</b>/entry
+  For downloadable URLs delivery method only. Cost of hard drives for physical hard drive delivery method is not included.
+</p>
+<br>
+<h3>Minimum Purchase Entries</h3>
+<p>
+  <b>2,000,000</b>
+  One data entry includes: one prompt and its corresponding result(s)
+</p>
 <br>
 <p>Find out more at <a href="https://midjourneydataset.com/"> MidjourneyDataset </a></p>
 <br><br>
