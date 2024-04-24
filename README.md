@@ -12,16 +12,16 @@
 <h2>Delivery Methods</h2>
 <h3>Downloadable URLs</h3>
 <ul>
-  <li>The client are to <b>create a cloud storage</b></li>
-  <li>Datset will be uploaded on the client's cloud storage</li>
-  <li>For larger dataset, expect long file upload time</li>
+  <li>Create a <b>cloud storage</b></li>
+  <li>Datset will be uploaded onto the cloud storage</li>
+  <li>For larger dataset, expect <b>long file upload time</b></li>
 </ul>
 <h3>Mailed Hard Drive</h3>
 <ul>
   <li>Fast delivery time!</li>
   <li>Pre-loaded hard drives ready for shipping!</li>
   <li>Worldwide shipping available</li>
-  <li>Hard drive cost: $20/TB (6TB =~ 1 million imagine entries)</li>
+  <li>Hard drive cost: <b>$20/TB</b> (6TB =~ 1 million imagine entries)</li>
 </ul>
 <br>
 <h2>Pricing</h2>
